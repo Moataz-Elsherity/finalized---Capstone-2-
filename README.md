@@ -1,4 +1,4 @@
-This capstone is the first capstone in the coursw with no guidance. 
+This capstone is the first capstone in the course with no guidance. 
 
 #Background info
 in this capstone we face a problem where cruella's is struggling to have multiple coats due to disney's financial struggle.
